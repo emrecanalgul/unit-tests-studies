@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnitStudies.APP", "xUnitStudies.APP\xUnitStudies.APP.csproj", "{D724BE4B-CB94-4929-A15D-14ED2728AE4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xUnitStudies.APP", "xUnitStudies.APP\xUnitStudies.APP.csproj", "{D724BE4B-CB94-4929-A15D-14ED2728AE4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnitStudies.Tests", "xUnitStudies.Tests\xUnitStudies.Tests.csproj", "{BD465513-D140-4346-9EBC-AB1B4DC6CA41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xUnitStudies.Tests", "xUnitStudies.Tests\xUnitStudies.Tests.csproj", "{BD465513-D140-4346-9EBC-AB1B4DC6CA41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnitStudies.Web", "xUnitStudies.Web\xUnitStudies.Web.csproj", "{22C0EAAE-DA8C-42F6-A595-18CBD4C21443}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{BD465513-D140-4346-9EBC-AB1B4DC6CA41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD465513-D140-4346-9EBC-AB1B4DC6CA41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD465513-D140-4346-9EBC-AB1B4DC6CA41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22C0EAAE-DA8C-42F6-A595-18CBD4C21443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C0EAAE-DA8C-42F6-A595-18CBD4C21443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C0EAAE-DA8C-42F6-A595-18CBD4C21443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C0EAAE-DA8C-42F6-A595-18CBD4C21443}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
