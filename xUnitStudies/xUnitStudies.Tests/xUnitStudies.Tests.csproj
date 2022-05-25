@@ -23,6 +23,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\xUnitStudies.APP\xUnitStudies.APP.csproj" />
+    <ProjectReference Include="..\xUnitStudies.Web\xUnitStudies.Web.csproj" />
   </ItemGroup>
 
 </Project>
